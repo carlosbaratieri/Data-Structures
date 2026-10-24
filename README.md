@@ -5,9 +5,6 @@
   />
 </p>
 
-
-![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/Welcome)
-
 ---
 
 # **`Estrutura de Dados (Data Structures)`**
@@ -36,7 +33,6 @@
 ├── Projects
 │   ├── 202502_ED2_ProjetoFinal.pdf
 │   └── ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final.ipynb
-├── Exercises (Em breve/Coming soon)
 └── README.md
 
 ```
@@ -72,30 +68,6 @@
 > [!NOTE]
 > In the future, the final project description and the notebook will be translated into English.
 
-![Graph Project](Projects/project.svg)
-
-
----
-
-## Repositório Recomendado (Recommended Repository)
-
-<p align="center">
-  <a href="https://github.com/fuyuakii/Object-Oriented-Programming">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/Object-Oriented-Programming&mode=dark&style=horizontal" alt="Object-Oriented-Programming"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td><img src="https://dynamic-repo-badges.vercel.app/svg/count/5/Repository%20Views/https://github.com/fuyuakii/Data-Structures" width="600"/></td>
-      <td><img src="https://ishan-rest.vercel.app/svg/banner/blackhole/:)" width="400"/></td>
-    </tr>
-  </table>
-</p>
-
 ---
 
 <p align="center">
@@ -103,25 +75,3 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
