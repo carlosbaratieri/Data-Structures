@@ -5,7 +5,6 @@
   />
 </p>
 
----
 
 # **`Estrutura de Dados (Data Structures)`**
 
